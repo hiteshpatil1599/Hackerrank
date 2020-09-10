@@ -1,0 +1,2 @@
+# hackerrankFirstCompetetion
+Competetion: Nothing
